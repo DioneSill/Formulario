@@ -104,7 +104,7 @@ export default function Encuesta() {
         p: 4,
       }}
     >
-      {/* PASO 1 */}
+      
       {paso === 1 && (
         <>
           <Typography
@@ -174,7 +174,6 @@ export default function Encuesta() {
         </>
       )}
  
-      {/* PASO 2 */}
       {paso === 2 && (
         <>
           <Typography
@@ -363,7 +362,6 @@ export default function Encuesta() {
         </>
       )}
  
-      {/* PASO 3 */}
       {paso === 3 && (
         <>
           <Typography
@@ -452,7 +450,7 @@ export default function Encuesta() {
           </Box>
         </>
       )}
-{/* PASO 4 */}
+
 {paso === 4 && (
   <>
     <Box
@@ -615,7 +613,7 @@ export default function Encuesta() {
     </Box>
   </>
 )}
-{/* PASO 5 */}
+
 {paso === 5 && (
   <>
     <Box
@@ -828,7 +826,7 @@ export default function Encuesta() {
     </Box>
   </>
 )}
-{/* PASO 6 */}
+
 {paso === 6 && (
   <>
     <Typography fontWeight="bold" sx={{ mb: 2 }}>
@@ -944,7 +942,7 @@ export default function Encuesta() {
     </Box>
   </>
 )}
-{/* PASO 7 */}
+
 {paso === 7 && (
   <>
     <Typography fontWeight="bold" sx={{ mb: 2 }}>
@@ -1047,7 +1045,7 @@ export default function Encuesta() {
     </Box>
   </>
 )}
-{/* PASO 8 */}
+
 {paso === 8 && (
   <>
     <Box
@@ -1153,7 +1151,7 @@ export default function Encuesta() {
     </Box>
   </>
 )}
-{/* PASO 9 */}
+
 {paso === 9 && (
   <>
     <Box
@@ -1281,7 +1279,7 @@ export default function Encuesta() {
     </Box>
   </>
 )}
-{/* PASO 10 */}
+
 {paso === 10 && (
   <>
     <Typography fontWeight="bold" sx={{ mb: 2 }}>
@@ -1394,7 +1392,7 @@ export default function Encuesta() {
     </Box>
   </>
 )}
-{/* PASO 11 */}
+
 {paso === 11 && (
   <>
     <Box
@@ -1502,7 +1500,7 @@ export default function Encuesta() {
     </Box>
   </>
 )}
-{/* PASO 12 */}
+
 {paso === 12 && (
   <>
     <Box
@@ -1727,7 +1725,7 @@ export default function Encuesta() {
     </Box>
   </>
 )}
-{/* PASO 14 */}
+
 {paso === 14 && (
   <>
     <Box
@@ -1874,7 +1872,7 @@ export default function Encuesta() {
     </Box>
   </>
 )}
-{/* PASO 15 */}
+
 {paso === 15 && (
   <>
     <Typography fontWeight="bold" sx={{ mb: 3 }}>
